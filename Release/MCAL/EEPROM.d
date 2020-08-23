@@ -1,0 +1,6 @@
+MCAL/EEPROM.o MCAL/EEPROM.o: ../MCAL/EEPROM.c ../MCAL/EEPROM.h \
+  ../MCAL/DIO.h
+
+../MCAL/EEPROM.h:
+
+../MCAL/DIO.h:

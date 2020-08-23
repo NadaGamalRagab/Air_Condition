@@ -1,0 +1,5 @@
+MCAL/ADC.o MCAL/ADC.o: ../MCAL/ADC.c ../MCAL/ADC.h ../MCAL/DIO.h
+
+../MCAL/ADC.h:
+
+../MCAL/DIO.h:
